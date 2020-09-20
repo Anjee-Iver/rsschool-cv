@@ -1,2 +1,2 @@
 # rsschool-cv
-https://anjee-iv
+https://anjee-iver.github.io/rsschool-cv/cv
