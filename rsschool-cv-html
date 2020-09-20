@@ -25,7 +25,7 @@
               >
             </div>
           </div>
-          <!--Tech Slills container-->
+          <!--Tech Skills container-->
           <div class="tech-skills-container">
             <h3 class="tech-skills-title">Tech Skills</h3>
             <ul>
@@ -44,12 +44,6 @@
               <li class="tech-skills-item">
                 <span class="tech-skills-text">JavaScript</span>
               </li>
-              <li class="tech-skills-item">
-                <span class="tech-skills-text">React.js</span>
-              </li>
-              <li class="tech-skills-item">
-                <span class="tech-skills-text">Node.js</span>
-              </li>
             </ul>
           </div>
           <!--Soft Skills container-->
@@ -60,13 +54,10 @@
                 <span class="tech-skills-text">Scrum</span>
               </li>
               <li class="tech-skills-item">
-                <span class="tech-skills-text">Agile</span>
-              </li>
-              <li class="tech-skills-item">
-                <span class="tech-skills-text">GTD</span>
-              </li>
-              <li class="tech-skills-item">
                 <span class="tech-skills-text">Teamwork</span>
+              </li>
+              <li class="tech-skills-item">
+                <span class="tech-skills-text">English</span>
               </li>
             </ul>
           </div>
