@@ -26,6 +26,8 @@ Photo-, Video-Design
 
 JavaScript/Front-end Course (in progress)
 
-###Objective: I want to be in a good team, where I could improve my skills and use them to interesting tasks. 
+###Objective: 
+
+I want to be in a good team, where I could improve my skills and use them to interesting tasks. 
 
 I'd like to work on Front end. But, I think, for this, I need a good team lead, who could show me the best practices of work.
