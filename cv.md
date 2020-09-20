@@ -18,8 +18,14 @@ tel.: +380684118137
 
 ##Education :
 
-####Kiev National Institute of Technology and Design Photo-, Video-Design
+####Kiev National Institute of Technology and Design 
 
-####Roling Scopes School JavaScript/Front-end Course (in progress)
+Photo-, Video-Design
 
-###Objective: I want to be in a good team, where I could improve my skills and use them to interesting tasks. I'd like to work on Front end. But, I think, for this, I need a good team lead, who could show me the best practices of work.
+####Roling Scopes School 
+
+JavaScript/Front-end Course (in progress)
+
+###Objective: I want to be in a good team, where I could improve my skills and use them to interesting tasks. 
+
+I'd like to work on Front end. But, I think, for this, I need a good team lead, who could show me the best practices of work.
