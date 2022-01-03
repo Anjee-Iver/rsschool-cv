@@ -5,6 +5,7 @@
 }
 
 body {
+  
   background-color: #f5f7fa;
   padding-left: 20px;
   padding-right: 20px;
@@ -30,6 +31,7 @@ body {
 
 .my-photo {
   width: 370px;
+  height: 440px;
 }
 
 .about-me-container {
@@ -205,4 +207,54 @@ body {
   font-weight: 700;
   line-height: 24px;
   letter-spacing: 0.42px;
+}
+.footer {
+  display: flex;
+  flex-direction: row;
+justify-content: space-between;
+max-width: 1200px;
+  height: 100px;
+ margin: auto;
+  background-color: #ffffff;
+
+}
+
+.Git_Date {
+  display: flex;
+  flex-direction: column;
+  width: 370px;
+  background-color: #1e2939;
+  padding-top: 12px;
+}
+.GitHub {
+  color: #ffffff;
+  font-size: medium;
+  font-weight: 200;
+  text-decoration: none;
+  text-align: center
+}
+.Date {
+  color: #ffffff;
+  font-size: medium;
+  font-weight: 200;
+  text-decoration: none;
+  text-align: center;
+  padding-top: 8px;
+}
+.Rslink_logo {
+  display: flex;
+  flex-direction: column;
+  margin-right: 50px;
+  padding-top: 12px;
+}
+.RsSchool {
+  color: #1e2939;
+  font-size: medium;
+  font-weight: 200;
+  text-decoration: none;
+  text-align: center
+}
+.logo {
+     width: 288px;
+    height: 43px;
 }
